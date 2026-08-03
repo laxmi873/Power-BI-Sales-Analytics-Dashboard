@@ -46,7 +46,7 @@ This project is an interactive Sales Analytics Dashboard built using Power BI to
 - Business Intelligence
 
 ## Dashboard Preview
-![Sales Analytics Dashboard] (Screenshot 2026-08-03 222511.png)
+![Sales Analytics Dashboard] (dashboard_screenshot.png)
 
 ## Author
 Laxmi Biradar
