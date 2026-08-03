@@ -50,6 +50,3 @@ This project is an interactive Sales Analytics Dashboard built using Power BI to
 
 ## Author
 Laxmi Biradar
-
-## Author
-Laxmi Biradar
